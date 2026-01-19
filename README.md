@@ -107,5 +107,8 @@ This project is intended for learning and demonstrating:
 ---
 
 ## Notes  
-- The trained model file exceeds GitHub’s 100 MB limit and is handled using **Git Large File Storage (LFS)**  
+- The trained model file exceeds GitHub’s 100 MB limit and is handled using **Git Large File Storage (LFS)**
+  ```
+  git lfs pull
+  ```
 - This reflects real-world DL project practices  
